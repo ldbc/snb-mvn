@@ -3,27 +3,27 @@
   <groupId>org.ldbcouncil.snb</groupId>
   <artifactId>driver</artifactId>
   <versioning>
-    <lastUpdated>20220721160622</lastUpdated>
+    <lastUpdated>20220906142332</lastUpdated>
     <snapshot>
-      <timestamp>20220721.160622</timestamp>
+      <timestamp>20220906.142332</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.1.0-20220721.160622-1</value>
-        <updated>20220721160622</updated>
+        <value>2.1.0-20220906.142332-1</value>
+        <updated>20220906142332</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.1.0-20220721.160622-1</value>
-        <updated>20220721160622</updated>
+        <value>2.1.0-20220906.142332-1</value>
+        <updated>20220906142332</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.1.0-20220721.160622-1</value>
-        <updated>20220721160622</updated>
+        <value>2.1.0-20220906.142332-1</value>
+        <updated>20220906142332</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
